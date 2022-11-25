@@ -1,22 +1,22 @@
 <?php
 $workExperience = [
     [
-    "name" => "Front End Developer",
-    "dateStart" => "Jan 2015",
+    "name" => "QA engineer",
+    "dateStart" => "August 2022",
     "dateEnd" => "Current",
-    "description" => "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste."
+    "description" => "This Quality Assurance (QA) Manager job description template is optimized for online job boards. Customize it with key duties for QA technicians"
 ],
 [
-    "name" => "Web Developer / something.com",
-    "dateStart" => "Mar 2012",
-    "dateEnd" => "Dec 2014",
-    "description" => "Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste." 
+    "name" => "Maternity leave",
+    "dateStart" => "December 2020",
+    "dateEnd" => "September 2022",
+    "description" => "Take care about child, educate him and just give a lot of love (not much as needed , do not make him mama boya)" 
 ],
 [
-    "name" => "Graphic Designer / designsomething.com",
-    "dateStart" => "Jun 2010",
-    "dateEnd" => "Mar 2012",
-    "description" =>"Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    "name" => "Junior Inspector",
+    "dateStart" => "May 2017",
+    "dateEnd" => "June 2018",
+    "description" =>"Do a lot of goverment no needed stuff. Make certificate of a large family, queuing on the ground and etc."
 ],
 ];
 ?>
